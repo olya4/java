@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8607487-00c6-4128-834e-ec2a269778a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="OKrylov" />
+        <option name="repository" value="Java2_2021_05_17" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sd6BpmB96CRfjJhxYKTKMyZwcR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/NetworkChatClient/src/main/java/ru/gb/java2/chat/client" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15390626" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.gb.java2.chat.clientserver" />
+      <recent name="ru.gb.java2.chat.server.chat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\математика\geekbrains\NetworkChat\NetworkChatServer" />
+      <recent name="D:\Google Drive\GeekBrains\Java2_2021_05_17\NetworkChatClientServer\src\ru\gb\java2\chat\clientserver\commands" />
+      <recent name="D:\Google Drive\GeekBrains\Java2_2021_05_17\NetworkChatClient\src\main\resources\ru\gb\java2\chat\client" />
+      <recent name="D:\Google Drive\GeekBrains\Java2_2021_05_17\NetworkChatClient\src\main\java\org\example" />
+      <recent name="D:\Google Drive\GeekBrains\Java2_2021_05_17\src\ru\gb\java2\lesson6" />
+    </key>
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="ru.gb.java2.chat.client.controllers.AuthController" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.gb.java2.chat.clientserver.commands" />
+      <recent name="ru.gb.java2.lesson5" />
+      <recent name="ru.gb.java2.lesson4.app.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientChat">
+    <configuration name="ClientChat" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.java2.chat.client.ClientChat" />
+      <module name="NetworkChatClient" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\User\Downloads\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.java2.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Document" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.java2.lesson1.part1.Document" />
+      <module name="Java2_2021_05_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.java2.lesson1.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.java2.chat.server.ServerApp" />
+      <module name="NetworkChatServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.java2.chat.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.java2.lesson1.part2.TestAnimal" />
+      <module name="Java2_2021_05_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.java2.lesson1.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkChatClient [javafx:debug]" type="MavenRunConfiguration" factoryName="Maven" singleton="false">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="javafx:run@debug" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/NetworkChatClient" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="NetworkChatClient [javafx:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="javafx:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/NetworkChatClient" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ServerApp" />
+      <item itemvalue="Application.ClientChat" />
+      <item itemvalue="Application.Document" />
+      <item itemvalue="Application.TestAnimal" />
+      <item itemvalue="Maven.NetworkChatClient [javafx:debug]" />
+      <item itemvalue="Maven.NetworkChatClient [javafx:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientChat" />
+        <item itemvalue="Application.ServerApp" />
+        <item itemvalue="Application.TestAnimal" />
+        <item itemvalue="Application.Document" />
+        <item itemvalue="Maven.NetworkChatClient [javafx:run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8607487-00c6-4128-834e-ec2a269778a1" name="Default Changelist" comment="" />
+      <created>1621189988509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621189988509</updated>
+      <workItem from="1621189989758" duration="518000" />
+      <workItem from="1621270521705" duration="9907000" />
+      <workItem from="1621528481208" duration="9816000" />
+      <workItem from="1621616117943" duration="111000" />
+      <workItem from="1621845972569" duration="1729000" />
+      <workItem from="1621850462590" duration="1000" />
+      <workItem from="1621875019052" duration="10544000" />
+      <workItem from="1622099432132" duration="215000" />
+      <workItem from="1622134816108" duration="6898000" />
+      <workItem from="1622215289354" duration="27000" />
+      <workItem from="1622479269693" duration="10173000" />
+      <workItem from="1622494948724" duration="56000" />
+      <workItem from="1622566203159" duration="81000" />
+      <workItem from="1622737489556" duration="8914000" />
+      <workItem from="1623004564781" duration="1182000" />
+      <workItem from="1623047692838" duration="94000" />
+      <workItem from="1623049030758" duration="8000" />
+      <workItem from="1623085296533" duration="18976000" />
+      <workItem from="1623342540901" duration="15081000" />
+      <workItem from="1623360044245" duration="572000" />
+    </task>
+    <task id="LOCAL-00001" summary="lesson 1">
+      <created>1621280858485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621280858485</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added vcs.xml">
+      <created>1621280878153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621280878153</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added vcs.xml">
+      <created>1621281066476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621281066476</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson 1 - hw">
+      <created>1621539585032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621539585032</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lesson 2">
+      <created>1621539714408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621539714408</updated>
+    </task>
+    <task id="LOCAL-00006" summary="rename main package">
+      <created>1621846156850</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621846156850</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson 2 - homework">
+      <created>1621885107641</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621885107641</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lesson 3">
+      <created>1621885147271</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621885147271</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lesson 3 - hw">
+      <created>1622144701536</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622144701536</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lesson 4">
+      <created>1622145041979</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622145041979</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lesson 4 - hw">
+      <created>1622491272623</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622491272623</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Lesson 5">
+      <created>1622491311592</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622491311592</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Lesson 5 - hw">
+      <created>1622749491707</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622749491707</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Lesson 6">
+      <created>1622749901848</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622749901848</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Lesson 6 - hw">
+      <created>1623097307944</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1623097307944</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Lesson 7">
+      <created>1623097428503</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1623097428503</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Lesson 7 - networkChat, v2">
+      <created>1623108710315</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1623108710315</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 1" />
+    <MESSAGE value="Added vcs.xml" />
+    <MESSAGE value="Lesson 1 - hw" />
+    <MESSAGE value="Lesson 2" />
+    <MESSAGE value="rename main package" />
+    <MESSAGE value="lesson 2 - homework" />
+    <MESSAGE value="Lesson 3" />
+    <MESSAGE value="Lesson 3 - hw" />
+    <MESSAGE value="Lesson 4" />
+    <MESSAGE value="Lesson 4 - hw" />
+    <MESSAGE value="Lesson 5" />
+    <MESSAGE value="Lesson 5 - hw" />
+    <MESSAGE value="Lesson 6" />
+    <MESSAGE value="Lesson 6 - hw" />
+    <MESSAGE value="Lesson 7" />
+    <MESSAGE value="Lesson 7 - networkChat, v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 7 - networkChat, v2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/geekbrains/java2/lesson1/part2/TestAnimal.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
